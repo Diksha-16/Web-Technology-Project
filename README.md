@@ -6,19 +6,19 @@
 ### Home page
 ![image](https://user-images.githubusercontent.com/92640652/232329825-7c4af50d-2908-44fb-8022-f44d554dfde1.png)
 
-![1](https://user-images.githubusercontent.com/17312616/65086776-b1beb080-d9d0-11e9-9983-143d61ed8fdc.png)
+![image](https://user-images.githubusercontent.com/92640652/232330005-5cebf0e4-7274-4897-991e-50cbd5bfe0a2.png)
 
 
 
 ### Content Description page
-![2](https://user-images.githubusercontent.com/17312616/65086777-b1beb080-d9d0-11e9-9e2b-af3b7210bdf3.png)
+![image](https://user-images.githubusercontent.com/92640652/232330017-be18df6c-2c1a-4c64-a939-0edba7da5cf9.png)
 
 
 
 ### Ordered List page
-![3](https://user-images.githubusercontent.com/17312616/65086778-b2574700-d9d0-11e9-9377-8e4886f582a8.png)
+![image](https://user-images.githubusercontent.com/92640652/232330054-28288399-c1c9-4ba3-aa32-22c9830ae1f3.png)
 
 
 
 ### Order confirm page
-![4](https://user-images.githubusercontent.com/17312616/65086779-b2efdd80-d9d0-11e9-95d5-4b1a48eafe04.png)
+![image](https://user-images.githubusercontent.com/92640652/232330070-b85f3d0a-2dc9-4a3e-bc14-18bcaa49ab9d.png)
