@@ -6,7 +6,7 @@
 ### Home page
 ![image](https://user-images.githubusercontent.com/92640652/232329825-7c4af50d-2908-44fb-8022-f44d554dfde1.png)
 
-![image](https://user-images.githubusercontent.com/92640652/232330005-5cebf0e4-7274-4897-991e-50cbd5bfe0a2.png)
+![image](https://user-images.githubusercontent.com/92640652/232330166-e12c2cc6-fc61-4a15-b631-4ade25c345bf.png)
 
 
 
